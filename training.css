@@ -1,0 +1,105 @@
+@media all (max-width: 900px) 
+ 
+ 
+
+
+.Container {
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+}
+
+.About {
+   
+    cursor: pointer;
+    
+}
+
+.Store {
+    
+        cursor: pointer;
+        
+    column-gap: 10em;
+}
+
+.Gmail {
+    cursor: pointer;
+    justify-content: end;
+}
+
+
+.pic {
+
+width: 34px;
+border-radius: 24px; 
+cursor: pointer;
+align-self: center;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.google {
+  margin-left: 475px; 
+  margin-top: 8px;
+  
+
+.ggg {
+    object-position: center; }
+    height: 92px;
+  
+  width: 272px;
+ 
+}
+
+
+
+
+.search {
+    font-size: large;
+    margin-left: 350px;
+    margin-top: 20px;
+   border-color: rgba(75, 71, 71, 0.151);
+    border-width: 0.8px;
+height: 41px;
+width: 600px;
+border-radius: 24px; 
+font-size: 15px;
+transition: box-shadow 0.15s;
+}
+
+
+.search:hover {
+    box-shadow: 0px 0px 5px rgba(104, 94, 94, 0.461);
+    
+    }
+
+
+
+    .footer1 {
+        display: flex;
+        background-color:rgb(241, 241, 241) ; 
+        padding: 15px 30px;
+    border-bottom: 0.2px solid;
+    font-size: 15px;
+    color: #202124;
+    align-items: flex-end;
+    margin-top: 260px;
+    margin-right: 0px;
+    margin-left: 0px;
+    
+    }
+
+    
+    
